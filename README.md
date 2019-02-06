@@ -1,7 +1,8 @@
 # PoliticalTweetAnalyzer
-Using Pandas and ScikitLearn API on Tweets Grabbed Through Twitter API
+## Compare K-Means and Agglomerative Clustering on Hillary and Trump Users Ground Truths
+## Using Pandas and ScikitLearn API on Tweets Grabbed Through Twitter API
 
-Cluster Users Based on Hashtags
+# Clustering Users Based on Hashtags
 
 1/Pre-Process
 - Keep Users and Hashtags that are actively used. (threshold: 20)
